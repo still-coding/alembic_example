@@ -1,0 +1,3 @@
+# PostgresQL
+# "postgresql+psycopg://<USERNAME>:<PASSWORD>@<IP_ADDRESS>:<PORT>/<DATABASE_NAME>"
+DATABASE_URI = "postgresql+psycopg://ivan:fK5o2GnrmJN1BmrlQ7Ao@192.168.2.2:5433/shop"
